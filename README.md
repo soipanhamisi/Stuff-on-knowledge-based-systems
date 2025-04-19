@@ -2,6 +2,20 @@
 
 This repository contains a collection of projects and experiments focused on knowledge-based systems, fuzzy logic, and agent-based simulations. It demonstrates the use of rule-based expert systems, fuzzy logic controllers, matchmaking systems, and agent-based modeling.
 
+
+## Features
+
+This project showcases several key concepts in artificial intelligence and computational modeling:
+
+* **Knowledge Representation:**
+    * Demonstrates how to represent and reason with knowledge using rule-based systems.
+* **Fuzzy Logic:**
+    * Implements fuzzy logic controllers for real-world scenarios like fan speed control and sprinkler systems.
+* **Agent-Based Modeling:**
+    * Simulates agents in a 2D environment with random movements.
+
+
+
 ## Repository Structure
 
 ### 1. `labs.ipynb`
